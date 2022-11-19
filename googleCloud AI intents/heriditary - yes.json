@@ -1,0 +1,39 @@
+{
+  "id": "3ea90b1d-9e98-4c79-89a4-4cdd554898e0",
+  "parentId": "ff60915f-9daa-4b63-8851-90a7e79bc15f",
+  "rootParentId": "39c58023-13ef-4d8e-948f-6b7e45a855df",
+  "name": "heriditary - yes",
+  "auto": true,
+  "contexts": [
+    "heriditary-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3-diagnosis.3-diagnosis-custom.gender-custom.Consumption-custom.blood-custom.contact-custom.heriditary-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your symptoms indicate that you may have Sickle Cell Disease (diagnosed with 87% accuracy). 𝗦𝗲𝗲𝗸 𝘁𝗵𝗲 𝗮𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗼𝗳 𝗮 𝗺𝗲𝗱𝗶𝗰𝗮𝗹 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲𝗹𝘆. 𝗧𝗼 𝘀𝗰𝗵𝗲𝗱𝘂𝗹𝗲 𝗮𝗻 𝗮𝗽𝗽𝗼𝗶𝗻𝘁𝗺𝗲𝗻𝘁, 𝗲𝗻𝘁𝗲𝗿 \"#𝟭\"."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

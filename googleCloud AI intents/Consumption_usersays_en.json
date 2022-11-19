@@ -1,0 +1,41 @@
+[
+  {
+    "id": "654a92ff-996b-4808-a372-02e6c9c73fbf",
+    "data": [
+      {
+        "text": "none",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "463d4018-558f-408c-9f5d-bad88f9e3b82",
+    "data": [
+      {
+        "text": "alcohol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a66e8281-1977-4226-a565-d232d976f6b5",
+    "data": [
+      {
+        "text": "smoke",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

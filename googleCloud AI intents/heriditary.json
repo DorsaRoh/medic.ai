@@ -1,0 +1,59 @@
+{
+  "id": "ff60915f-9daa-4b63-8851-90a7e79bc15f",
+  "parentId": "c6feecb3-5b53-4a04-b8cf-e45c5abf79ef",
+  "rootParentId": "39c58023-13ef-4d8e-948f-6b7e45a855df",
+  "name": "heriditary",
+  "auto": true,
+  "contexts": [
+    "contact-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3-diagnosis.3-diagnosis-custom.gender-custom.Consumption-custom.blood-custom.contact-custom",
+      "affectedContexts": [
+        {
+          "name": "heriditary-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8f6c0ff1-9907-4d41-b5c7-a7329de3e57a",
+          "name": "color",
+          "required": false,
+          "dataType": "@sys.color",
+          "value": "$color",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Do your biological relatives have a history of heriditary disease(s)?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

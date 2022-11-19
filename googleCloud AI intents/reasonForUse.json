@@ -1,0 +1,36 @@
+{
+  "id": "f312399b-cc9c-4785-86f6-c90c31d3174d",
+  "name": "reasonForUse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I see, you have come to the right place. Medic.AI enables patients to book a doctor\u0027s appointment and to purchase medication and receive medical diagnosis.\n\n𝗣𝗹𝗲𝗮𝘀𝗲 𝗲𝗻𝘁𝗲𝗿 #𝟭 𝘁𝗼 𝗯𝗼𝗼𝗸 𝗮 𝗱𝗼𝗰𝘁𝗼𝗿\u0027𝘀 𝗮𝗽𝗽𝗼𝗶𝗻𝘁𝗺𝗲𝗻𝘁 ; #𝟮 𝘁𝗼 𝗼𝗿𝗱𝗲𝗿 𝗽𝗿𝗲𝘀𝗰𝗿𝗶𝗯𝗲𝗱 𝗮𝗻𝗱/𝗼𝗿 𝗱𝗲𝗰𝗿𝗲𝗲𝗱 𝗺𝗲𝗱𝗶𝗰𝗮𝘁𝗶𝗼𝗻 ; #𝟯 𝘁𝗼 𝗿𝗲𝗰𝗲𝗶𝘃𝗲 𝗮 𝘃𝗶𝗿𝘁𝘂𝗮𝗹 𝗱𝗶𝗮𝗴𝗻𝗼𝘀𝗶𝘀.",
+            "Noted, you have come to the right place. Medic.AI enables patients to book a doctor\u0027s appointment, purchase medication and receive medical diagnosis.\n\n𝗣𝗹𝗲𝗮𝘀𝗲 𝗲𝗻𝘁𝗲𝗿 \u0027#𝟭\u0027 𝘁𝗼 𝗯𝗼𝗼𝗸 𝗮 𝗱𝗼𝗰𝘁𝗼𝗿\u0027𝘀 𝗮𝗽𝗽𝗼𝗶𝗻𝘁𝗺𝗲𝗻𝘁 ; \"#𝟮\" 𝘁𝗼 𝗼𝗿𝗱𝗲𝗿 𝗽𝗿𝗲𝘀𝗰𝗿𝗶𝗯𝗲𝗱 𝗮𝗻𝗱/𝗼𝗿 𝗱𝗲𝗰𝗿𝗲𝗲𝗱 𝗺𝗲𝗱𝗶𝗰𝗮𝘁𝗶𝗼𝗻 ; \"#𝟯\" 𝘁𝗼 𝗿𝗲𝗰𝗲𝗶𝘃𝗲 𝗮 𝘃𝗶𝗿𝘁𝘂𝗮𝗹 𝗱𝗶𝗮𝗴𝗻𝗼𝘀𝗶𝘀."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

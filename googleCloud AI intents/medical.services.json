@@ -1,0 +1,35 @@
+{
+  "id": "ff9d63db-dbee-4d48-926b-48fd27126dc2",
+  "name": "medical.services",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Medic.AI enables a patient to seek the immediate advice of a medical professional, purchase prescribed and/or decreed medication, and receive effective medical diagnosis.\n\n𝗘𝗻𝘁𝗲𝗿 \"#𝟭\" 𝘁𝗼 𝗯𝗼𝗼𝗸 𝗮 𝗱𝗼𝗰𝘁𝗼𝗿\u0027𝘀 𝗮𝗽𝗽𝗼𝗶𝗻𝘁𝗺𝗲𝗻𝘁 ; \"#𝟮\" 𝘁𝗼 𝗼𝗿𝗱𝗲𝗿 𝗺𝗲𝗱𝗶𝗰𝗮𝘁𝗶𝗼𝗻 ; \"#𝟯\" 𝘁𝗼 𝗰𝗼𝗺𝗺𝗲𝗻𝗰𝗲 𝗮 𝘃𝗶𝗿𝘁𝘂𝗮𝗹 𝗱𝗶𝗮𝗴𝗻𝗼𝘀𝗶𝘀."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

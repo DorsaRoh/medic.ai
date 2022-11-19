@@ -1,0 +1,54 @@
+{
+  "id": "d139c94c-0ab0-4d18-ab95-5e6a16cd1cac",
+  "parentId": "134d72e2-78e1-4c7a-80cd-b050c82b11d9",
+  "rootParentId": "e78bca83-0719-45a6-8dad-b386ac3ae79d",
+  "name": "dosage",
+  "auto": true,
+  "contexts": [
+    "desiredMedication-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "medication.medication-custom.desiredMedication-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "15d163e9-346d-4957-9342-253130a82f9c",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "𝗥𝗲𝗰𝗲𝗶𝘃𝗲𝗱. Please enter your email address."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

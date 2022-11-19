@@ -1,0 +1,82 @@
+[
+  {
+    "id": "abe6a856-fa19-4ed6-b474-37bcd95ba226",
+    "data": [
+      {
+        "text": "girl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8637013-6b34-4e03-93cb-d7838310d568",
+    "data": [
+      {
+        "text": "boy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f1f0287-da05-4de9-a9ff-61ac1bff7f7a",
+    "data": [
+      {
+        "text": "M",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81aedf8f-a428-436a-bf18-423908d61ea4",
+    "data": [
+      {
+        "text": "F",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38aab847-997c-42f6-bd3e-45edb2e41b70",
+    "data": [
+      {
+        "text": "male",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cad8e92e-9e6b-4454-9391-f1f7e46423d9",
+    "data": [
+      {
+        "text": "female",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

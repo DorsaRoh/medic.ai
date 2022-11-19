@@ -1,0 +1,44 @@
+{
+  "id": "de523de1-3a12-430d-830c-8d5178c335de",
+  "parentId": "d79d5324-d3e4-41e4-972e-db8554943fb2",
+  "rootParentId": "39c58023-13ef-4d8e-948f-6b7e45a855df",
+  "name": "blood",
+  "auto": true,
+  "contexts": [
+    "Consumption-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3-diagnosis.3-diagnosis-custom.gender-custom.Consumption-custom",
+      "affectedContexts": [
+        {
+          "name": "blood-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Are you experiencing chronic fatigue, unexplainable bleeding or sudden anxiety? Please enter only one--the most significant among the symptoms mentioned. \"𝙛𝙖𝙩𝙞𝙜𝙪𝙚\" 𝙛𝙤𝙧 𝙘𝙝𝙧𝙤𝙣𝙞𝙘 𝙛𝙖𝙩𝙞𝙜𝙪𝙚 ; \"𝙗𝙡𝙚𝙚𝙙\" 𝙛𝙤𝙧 𝙪𝙣𝙚𝙭𝙥𝙡𝙖𝙞𝙣𝙖𝙗𝙡𝙚 𝙗𝙡𝙚𝙚𝙙𝙞𝙣𝙜 ; \"𝙖𝙣𝙭𝙞𝙚𝙩𝙮\" 𝙛𝙤𝙧 𝙨𝙪𝙙𝙙𝙚𝙣 𝙖𝙣𝙭𝙞𝙚𝙩𝙮."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

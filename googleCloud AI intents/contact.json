@@ -1,0 +1,44 @@
+{
+  "id": "c6feecb3-5b53-4a04-b8cf-e45c5abf79ef",
+  "parentId": "de523de1-3a12-430d-830c-8d5178c335de",
+  "rootParentId": "39c58023-13ef-4d8e-948f-6b7e45a855df",
+  "name": "contact",
+  "auto": true,
+  "contexts": [
+    "blood-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3-diagnosis.3-diagnosis-custom.gender-custom.Consumption-custom.blood-custom",
+      "affectedContexts": [
+        {
+          "name": "contact-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Have you travelled or came in contact with an diseased individual?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "a3a457b7-7327-483d-ac5b-65856147628d",
+    "data": [
+      {
+        "text": "bleed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa8ac57b-983a-48ce-93db-b3be6aba3e79",
+    "data": [
+      {
+        "text": "anxiety",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3288b91b-be3c-40d1-ace5-2d3590804a1f",
+    "data": [
+      {
+        "text": "fatigue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "id": "bf1d43db-9f58-4db5-9379-d3d70930dd88",
+  "parentId": "c6feecb3-5b53-4a04-b8cf-e45c5abf79ef",
+  "rootParentId": "39c58023-13ef-4d8e-948f-6b7e45a855df",
+  "name": "contact - yes",
+  "auto": true,
+  "contexts": [
+    "contact-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3-diagnosis.3-diagnosis-custom.gender-custom.Consumption-custom.blood-custom.contact-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your symptoms indicate that you may have COVID-19 (diagnosed with 82% accuracy). 𝗦𝗲𝗲𝗸 𝘁𝗵𝗲 𝗮𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗼𝗳 𝗮 𝗺𝗲𝗱𝗶𝗰𝗮𝗹 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲𝗹𝘆. 𝗧𝗼 𝘀𝗰𝗵𝗲𝗱𝘂𝗹𝗲 𝗮𝗻 𝗮𝗽𝗽𝗼𝗶𝗻𝘁𝗺𝗲𝗻𝘁, 𝗲𝗻𝘁𝗲𝗿 \"#𝟭\".",
+            "Your symptoms indicate that you may have COVID-19 (diagnosed with 86% accuracy). 𝗦𝗲𝗲𝗸 𝘁𝗵𝗲 𝗮𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗼𝗳 𝗮 𝗺𝗲𝗱𝗶𝗰𝗮𝗹 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗶𝗺𝗺𝗲𝗱𝗶𝗮𝘁𝗲𝗹𝘆. 𝗧𝗼 𝘀𝗰𝗵𝗲𝗱𝘂𝗹𝗲 𝗮𝗻 𝗮𝗽𝗽𝗼𝗶𝗻𝘁𝗺𝗲𝗻𝘁, 𝗲𝗻𝘁𝗲𝗿 \"#𝟭\"."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

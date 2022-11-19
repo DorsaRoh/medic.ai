@@ -1,0 +1,63 @@
+{
+  "id": "4a6a7e69-50d2-4f4e-9dc4-8b5825402fdb",
+  "parentId": "39c58023-13ef-4d8e-948f-6b7e45a855df",
+  "rootParentId": "39c58023-13ef-4d8e-948f-6b7e45a855df",
+  "name": "gender",
+  "auto": true,
+  "contexts": [
+    "3-diagnosis-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3-diagnosis.3-diagnosis-custom",
+      "affectedContexts": [
+        {
+          "name": "3-diagnosis-custom-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "gender-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "468f70e9-0089-470a-82a1-b20d1a8f304d",
+          "name": "currency-name",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Do you smoke or consume alcohol frequently? Please enter only one--the most significant among the symptoms mentioned. \"𝙨𝙢𝙤𝙠𝙚\" 𝙛𝙤𝙧 𝙣𝙞𝙘𝙤𝙩𝙞𝙣𝙚 𝙨𝙢𝙤𝙠𝙞𝙣𝙜 ; \"𝙖𝙡𝙘𝙤𝙝𝙤𝙡\" 𝙛𝙤𝙧 𝙖𝙡𝙘𝙤𝙝𝙤𝙡 𝙘𝙤𝙣𝙨𝙪𝙢𝙥𝙩𝙞𝙤𝙣 ; \"𝙣𝙤𝙣𝙚\" 𝙞𝙛 𝙣𝙚𝙞𝙩𝙝𝙚𝙧 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙗𝙡𝙚."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

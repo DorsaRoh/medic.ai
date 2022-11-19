@@ -1,0 +1,343 @@
+[
+  {
+    "id": "bd648f03-48ec-40b2-a396-9dedbb35cf7b",
+    "data": [
+      {
+        "text": "01234-123-01",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb3578df-02d2-41f5-bc22-77688b9a5544",
+    "data": [
+      {
+        "text": "0-0",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": "-0",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "189f8345-efa3-474c-b387-35f84b7d9b3c",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d47f95f1-df80-4937-a2b0-cad67e7133ee",
+    "data": [
+      {
+        "text": "-",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0302510-0f0f-4ec4-9033-606896d6c4fa",
+    "data": [
+      {
+        "text": "Doxycycline\n Dupixent\n Entresto\n Entyvio\n Farxiga\n Fentanyl\n Fentanyl Patch\n Gabapentin\n Gilenya\n Humira\n Hydrochlorothiazide\n Hydroxychloroquine\n Ibuprofen\n Imbruvica\n Invokana\n Januvia\n Jardiance\n Kevzara\n Lexapro\n Lisinopril\n Lofexidine\n Loratadine\n Lyrica\n Melatonin\n Meloxicam\n Metformin\n Methadone\n Methotrexate\n Metoprolol\n Naloxone\n Naltrexone\n Naproxen\n Omeprazole\n Onpattro\n Otezla\n Ozempic\n Pantoprazole\n Prednisone\n Probuphine\n Rybelsus\n secukinumab\n Sublocade\n Tramadol\n Trazodone\n Viagra\n Wellbutrin\n Xanax\n Zubsol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4a7ea2d-1494-41b0-9ed2-3f169e9983d8",
+    "data": [
+      {
+        "text": "Acetaminophen\n Adderall\n Amitriptyline\n Amlodipine\n Amoxicillin\n Ativan\n Atorvastatin\n Azithromycin\n Benzonatate\n Brilinta\n Bunavail\n Buprenorphine\n Cephalexin\n Ciprofloxacin\n Citalopram\n Clindamycin\n Clonazepam\n Cyclobenzaprine\n Cymbalta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0b64d70f-e6a2-432b-9557-c6de406c5340",
+    "data": [
+      {
+        "text": "Atorvastatin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d6e20f0-1c3d-4ba3-96b4-6e5b7fa6b735",
+    "data": [
+      {
+        "text": "Amoxicillin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48d0c5a6-a3ea-4373-aca5-8a3f571c3670",
+    "data": [
+      {
+        "text": "Amlodipine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7af1697-dbaa-47b9-9acb-73a8f57a87c5",
+    "data": [
+      {
+        "text": "Amitriptyline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6e7cdc3-efe0-463f-9632-14651113078e",
+    "data": [
+      {
+        "text": "Adderall",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de6eb536-fae1-4a9f-802b-d3d10066ef23",
+    "data": [
+      {
+        "text": "Acetaminophen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "903d2800-5e9f-49aa-9b6e-ae2e2ce475a1",
+    "data": [
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc0fa735-d7a9-43d8-8a56-6f6fc85065bf",
+    "data": [
+      {
+        "text": "9",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96c6f149-20f4-4661-bf34-56cdf18e5077",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6816fd83-7de6-4b5c-b020-7d341f074b0a",
+    "data": [
+      {
+        "text": "7",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aceed0ca-e64c-4f0f-89a9-e5e1160a301f",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95d87802-5894-4854-877a-42b43efe3bb4",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2a13c85-a2c9-4fdb-8516-cd009e70c901",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7887443c-dfe0-45e9-a484-6b2b3bbbcb6b",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8abf6ef-54e1-4bd4-b0fb-d4a3c6cc162d",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e6183b8-d143-4f7e-9839-fb27be9cd683",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "467980e9-1950-4dd7-9bd5-4fb07408ea58",
+    "data": [
+      {
+        "text": "0",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

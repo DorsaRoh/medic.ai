@@ -1,0 +1,55 @@
+{
+  "id": "1524c78d-b7d4-4668-9d5a-02855357892f",
+  "name": "#1 - appointment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "one-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "473a0106-a03f-4a5f-ab9a-15e7078531c4",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝘀𝗲𝗹𝗲𝗰𝘁𝗲𝗱 𝘁𝗼 𝗯𝗼𝗼𝗸 𝗮 𝗱𝗼𝗰𝘁𝗼𝗿\u0027𝘀 𝗮𝗽𝗽𝗼𝗶𝗻𝘁𝗺𝗲𝗻𝘁. Please indicate which ailment(s) you are suffering from, so I may connect you with a relevant medical doctor."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

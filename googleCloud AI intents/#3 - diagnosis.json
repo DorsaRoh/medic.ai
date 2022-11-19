@@ -1,0 +1,40 @@
+{
+  "id": "39c58023-13ef-4d8e-948f-6b7e45a855df",
+  "name": "#3 - diagnosis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "3-diagnosis-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝘀𝗲𝗹𝗲𝗰𝘁𝗲𝗱 𝗩𝗶𝗿𝘁𝘂𝗮𝗹 𝗗𝗶𝗮𝗴𝗻𝗼𝘀𝗶𝘀. Please enter your gender."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,595 @@
+[
+  {
+    "id": "f4f1bd7b-2229-4ff6-8d5c-c33b5925d610",
+    "data": [
+      {
+        "text": "throat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64e228a9-8fb9-4615-83a5-0c58766e6364",
+    "data": [
+      {
+        "text": "sore",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed06526d-fe7a-40f7-8b3d-3fabd60ac56a",
+    "data": [
+      {
+        "text": "cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2efece2-f61e-4c9b-b261-53e20f0837ac",
+    "data": [
+      {
+        "text": "flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3e2f89f-713d-4d10-9a48-74667ec20e28",
+    "data": [
+      {
+        "text": "hepatitis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41c2cd04-4a69-4258-8951-1fde4637b427",
+    "data": [
+      {
+        "text": "dengue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b499ac82-c25e-4550-837f-b1b48036dc7a",
+    "data": [
+      {
+        "text": "infection",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efc45ac2-55d6-4203-a55d-f25717331b7a",
+    "data": [
+      {
+        "text": "kidney",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c14f0f2-f613-4495-8ce3-380c853e279e",
+    "data": [
+      {
+        "text": "HPV",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e8573f0-ff18-48e0-a41d-24854ed36027",
+    "data": [
+      {
+        "text": "gonorhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "938af7a9-6759-4c71-a9cd-0548f8d3a7e5",
+    "data": [
+      {
+        "text": "gonorrhea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f72cd432-2db7-4d67-bebd-9aff4b47e55b",
+    "data": [
+      {
+        "text": "diabees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d8bce7c-f129-4713-a90f-13cf8b4290a9",
+    "data": [
+      {
+        "text": "trichomoniasis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38ea26a2-7f2a-47c3-9cb1-0511e25a748e",
+    "data": [
+      {
+        "text": "MS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ef9e32d-6fca-4124-8519-9abc737f55d3",
+    "data": [
+      {
+        "text": "meningitis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48a80128-306f-43cc-8672-f25f6fab7358",
+    "data": [
+      {
+        "text": "influenza",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82a496f5-3e57-4072-bde0-21b90a5d3a78",
+    "data": [
+      {
+        "text": "giardiasis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9da552c8-1e0b-4c94-8dc0-adbef8ae2603",
+    "data": [
+      {
+        "text": "salmonella",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7010fd4-575c-488b-bb5b-21d6475b03e5",
+    "data": [
+      {
+        "text": "tubercolosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce028619-bbcc-4d0d-b02e-053d739deb1e",
+    "data": [
+      {
+        "text": "AIDs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d793a87-6e30-461e-a70e-f65622ccc4d2",
+    "data": [
+      {
+        "text": "HIV",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc7175a5-4d9d-484d-9de6-53242f248dc2",
+    "data": [
+      {
+        "text": "measles",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56e16b08-79ca-4a2a-b062-2ec5c285bfd8",
+    "data": [
+      {
+        "text": "malaria",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac0359aa-c3c7-4203-af22-44e5bf6a7229",
+    "data": [
+      {
+        "text": "immune disease",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70092f0b-0a9f-4185-b7ea-7d54cb2120eb",
+    "data": [
+      {
+        "text": "virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "50125a91-2829-4032-a219-a68f1f7b88cb",
+    "data": [
+      {
+        "text": "corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2a5719b-80bd-4573-8bd3-3f13680969b0",
+    "data": [
+      {
+        "text": "asthma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3f12b66-5b2a-498a-8308-cb3e1c8d7150",
+    "data": [
+      {
+        "text": "tumor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26237578-3919-4748-9540-9815383a13b8",
+    "data": [
+      {
+        "text": "neuroma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "383bdef8-0c15-445e-b2d4-b8f6890256ff",
+    "data": [
+      {
+        "text": "chickenpox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "191cdc29-a97d-489f-a6f4-90935b553c4f",
+    "data": [
+      {
+        "text": "chicken pox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be6369a9-b438-4601-883f-720f7915a353",
+    "data": [
+      {
+        "text": "monkey pox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ada72644-7a5a-4852-a5c2-ebdc81243cb7",
+    "data": [
+      {
+        "text": "monkeypox",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8df08943-0d30-413c-9b3d-245b7707b74b",
+    "data": [
+      {
+        "text": "zoonotic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aec95186-7376-4e8f-91eb-e3b8ad4616db",
+    "data": [
+      {
+        "text": "cystic fibrosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79df0d14-daf4-4b27-899e-82b484073a66",
+    "data": [
+      {
+        "text": "cystic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9a8fe82-6bd8-4bce-8351-5ad6bf00d0d8",
+    "data": [
+      {
+        "text": "ebola",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "326e8e54-c705-4382-9833-c61e909094eb",
+    "data": [
+      {
+        "text": "cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31ff59d4-806a-43ac-a9b5-325cf17d4610",
+    "data": [
+      {
+        "text": "sinus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e5af438-3d7f-47b6-a40c-6abe5b3fa96d",
+    "data": [
+      {
+        "text": "covid19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54769e0e-a83d-4a30-acb2-c7fdffad3081",
+    "data": [
+      {
+        "text": "covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc260be2-6c89-40e1-b347-96c4079dad04",
+    "data": [
+      {
+        "text": "covid-",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37170e8f-f01e-4eee-bbb1-9529387c828e",
+    "data": [
+      {
+        "text": "fly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "008ded4a-9625-4432-a2e4-51c4e56a57c9",
+    "data": [
+      {
+        "text": "cramp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9cb2e10e-d29e-4a70-beb2-ed0d0c603f8d",
+    "data": [
+      {
+        "text": "pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

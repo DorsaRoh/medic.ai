@@ -1,0 +1,87 @@
+{
+  "id": "134d72e2-78e1-4c7a-80cd-b050c82b11d9",
+  "parentId": "e78bca83-0719-45a6-8dad-b386ac3ae79d",
+  "rootParentId": "e78bca83-0719-45a6-8dad-b386ac3ae79d",
+  "name": "desiredMedication",
+  "auto": true,
+  "contexts": [
+    "medication-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "medication.medication-custom",
+      "affectedContexts": [
+        {
+          "name": "desiredMedication-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "f99939b4-c004-4fee-a5cb-840e21a6b88a",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "825a1c75-30a3-4a53-9d69-488b4b86b7d3",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "848eb90b-7078-45f0-86cb-78675ebbae2f",
+          "name": "phone-number",
+          "required": false,
+          "dataType": "@sys.phone-number",
+          "value": "$phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "𝗘𝗻𝘁𝗲𝗿 𝘁𝗵𝗲 𝗱𝗲𝘀𝗶𝗿𝗲𝗱 𝗱𝗼𝘀𝗮𝗴𝗲."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

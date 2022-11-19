@@ -1,0 +1,338 @@
+[
+  {
+    "id": "23201bb9-b88b-4304-a98a-7df5215f695f",
+    "data": [
+      {
+        "text": "21",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "ml",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2eab1715-a774-460b-a0ca-7e8408ae936c",
+    "data": [
+      {
+        "text": "99",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "ml",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dafc2fc8-632d-4758-8b36-e38cb9deae9b",
+    "data": [
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": "mg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8682cf53-407a-4c31-af85-1bb980988e36",
+    "data": [
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "55999dbc-0bd5-438c-a92f-3f9602f8564c",
+    "data": [
+      {
+        "text": "0495",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ml",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "953579b4-9d2f-4ce6-967b-f05e388e4f21",
+    "data": [
+      {
+        "text": "504",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "496d3c99-0fb2-4cfd-95d0-3acd25d93b00",
+    "data": [
+      {
+        "text": "230",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a4bf0d8d-fdbb-45a2-90eb-149686c0e347",
+    "data": [
+      {
+        "text": "150",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b015190-dd73-43fb-889d-a093c4e125ba",
+    "data": [
+      {
+        "text": "100",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04366323-c085-4a1c-bb7a-5688637ec44f",
+    "data": [
+      {
+        "text": "0",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c6b18c80-1263-4561-adf0-cb0ee4dce166",
+    "data": [
+      {
+        "text": "9",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "369d38e8-a93e-4822-ba3e-3dd5470c4c70",
+    "data": [
+      {
+        "text": "8",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ebd89f9-89ac-4e55-afae-9f0577199fad",
+    "data": [
+      {
+        "text": "7",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c6f1a1a-e3a2-40ee-83e3-26648367d224",
+    "data": [
+      {
+        "text": "6",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5f9c9ac-5c96-4a76-8aea-24f76d6ccf9f",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02387a43-748e-4cb4-8573-66d1aaa75702",
+    "data": [
+      {
+        "text": "34",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82ff1839-c4da-4356-8433-fca1a417028d",
+    "data": [
+      {
+        "text": "12",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef86e9e3-9bc7-4941-b936-acec22b5a6aa",
+    "data": [
+      {
+        "text": "l",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0412fc7-1d0b-4fd8-ae63-05f60f2036eb",
+    "data": [
+      {
+        "text": "litre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "761b7bea-9590-48c6-b046-275953fc5cc5",
+    "data": [
+      {
+        "text": "dose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b276b5c-ae96-4002-8eae-be23df3a116b",
+    "data": [
+      {
+        "text": "mg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e72ee9b-2dbe-4393-967f-059f711c7796",
+    "data": [
+      {
+        "text": "ml",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

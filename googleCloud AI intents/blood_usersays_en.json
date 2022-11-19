@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9a05199f-3b4c-4ec2-bd04-66284d464423",
+    "data": [
+      {
+        "text": "swallowing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "77df2517-ae83-496f-a766-0eac6dd7f44e",
+    "data": [
+      {
+        "text": "breath",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "58e049ef-baf8-4d51-8d8e-de9610118a15",
+    "data": [
+      {
+        "text": "chest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

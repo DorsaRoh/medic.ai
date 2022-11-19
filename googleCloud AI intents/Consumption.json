@@ -1,0 +1,45 @@
+{
+  "id": "d79d5324-d3e4-41e4-972e-db8554943fb2",
+  "parentId": "4a6a7e69-50d2-4f4e-9dc4-8b5825402fdb",
+  "rootParentId": "39c58023-13ef-4d8e-948f-6b7e45a855df",
+  "name": "Consumption",
+  "auto": true,
+  "contexts": [
+    "3-diagnosis-custom-followup",
+    "gender-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "3-diagnosis.3-diagnosis-custom.gender-custom",
+      "affectedContexts": [
+        {
+          "name": "Consumption-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Are you experiencing shortness of breath, chest pain or difficulty swallowing? Please enter only one--the most significant among the symptoms mentioned. \"𝙘𝙝𝙚𝙨𝙩\" 𝙛𝙤𝙧 𝙘𝙝𝙚𝙨𝙩 𝙥𝙖𝙞𝙣 ; \"𝙗𝙧𝙚𝙖𝙩𝙝\" 𝙛𝙤𝙧 𝙨𝙝𝙤𝙧𝙩𝙣𝙚𝙨𝙨 𝙤𝙛 𝙗𝙧𝙚𝙖𝙩𝙝 ; \"𝙨𝙬𝙖𝙡𝙡𝙤𝙬𝙞𝙣𝙜\" 𝙛𝙤𝙧 𝙙𝙞𝙛𝙛𝙞𝙘𝙪𝙡𝙩𝙮 𝙨𝙬𝙖𝙡𝙡𝙤𝙬𝙞𝙣𝙜."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": "3bef53b0-7af1-485a-bb53-ca803bc7e466",
+  "parentId": "1524c78d-b7d4-4668-9d5a-02855357892f",
+  "rootParentId": "1524c78d-b7d4-4668-9d5a-02855357892f",
+  "name": "doctorAppointment",
+  "auto": true,
+  "contexts": [
+    "one-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "one.one-custom",
+      "affectedContexts": [
+        {
+          "name": "doctorAppointment-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5c97a1be-d6db-4173-a123-395bef339cf8",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6071b302-be3d-4d25-889e-d255e5054483",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Kindly mention the date on which you are available so that I may arrange your appointment with the doctor."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

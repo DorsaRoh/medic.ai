@@ -1,0 +1,262 @@
+[
+  {
+    "id": "bb3fa4ce-502e-4ecf-ae45-38db7ae98dd2",
+    "data": [
+      {
+        "text": "ache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c0f9f5c-7ce0-4124-9599-45476e8e6361",
+    "data": [
+      {
+        "text": "headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0a64d62-f462-4ccc-ae0a-e862ca6930be",
+    "data": [
+      {
+        "text": "period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8834f9ea-313c-40ff-a20a-ac21b3401c8c",
+    "data": [
+      {
+        "text": "cramp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d6474d2-aff9-4e2d-8a70-1a967a284dd4",
+    "data": [
+      {
+        "text": "stomach",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0cf07bb-d950-48e6-909a-5d95f7fc4160",
+    "data": [
+      {
+        "text": "indigestion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95f0afce-c4e3-45f5-a1d8-3afd23f64381",
+    "data": [
+      {
+        "text": "diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d846c37-5beb-4f7c-8d91-995aa17808cf",
+    "data": [
+      {
+        "text": "cancer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14ff4484-4261-47be-8e43-1b5ebe624e02",
+    "data": [
+      {
+        "text": "malady",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a90a93fe-da4d-4221-b090-407e72a4ea79",
+    "data": [
+      {
+        "text": "ill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92d6fcfb-bddb-42fc-9708-5cf801e66bdc",
+    "data": [
+      {
+        "text": "sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc5054d1-d1a9-4616-a6c4-86530d06570c",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b46ac30-2ad1-48bc-b8f3-6c94aaaf958b",
+    "data": [
+      {
+        "text": "hurt",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dcfeeb6-8d32-4aea-85c5-59c23d054fe9",
+    "data": [
+      {
+        "text": "coughing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b258dd5e-d797-417e-87b2-bc99ed67e557",
+    "data": [
+      {
+        "text": "runny nose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8ac479c-df10-47fd-97f7-b1f150a38e71",
+    "data": [
+      {
+        "text": "throwing up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "baf9a101-b68a-49d0-af6a-f7ec118a2450",
+    "data": [
+      {
+        "text": "pain",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "86ee63e4-4d3e-4563-a318-56b5dc54900a",
+    "data": [
+      {
+        "text": "not feeling well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c819b386-7c43-4d6f-9e94-1f1214454b21",
+    "data": [
+      {
+        "text": "not feeling good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f7eb8a22-7765-4d5d-8d49-e7c512103bd9",
+    "data": [
+      {
+        "text": "im sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

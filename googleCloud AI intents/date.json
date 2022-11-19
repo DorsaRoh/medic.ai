@@ -1,0 +1,82 @@
+{
+  "id": "bf14efee-8c55-40f6-9997-3cd1c1dedd48",
+  "parentId": "3bef53b0-7af1-485a-bb53-ca803bc7e466",
+  "rootParentId": "1524c78d-b7d4-4668-9d5a-02855357892f",
+  "name": "date",
+  "auto": true,
+  "contexts": [
+    "doctorAppointment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "one.one-custom.doctorAppointment-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a928f867-f06c-4355-83f0-8208d82ff3e4",
+          "name": "date-period",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "value": "$date-period",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "99831683-8655-4b09-94bc-592c4408db29",
+          "name": "date-time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "472618b0-fa9f-4dbc-afc6-f5d40fd5a51c",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Your selected date has been recorded. Please confirm your appointment through the link provided below by typing “Confirm”. You can copy or paste this URL on your respective browser. https://bot.dialogflow.com/a161568f-baa1-4be1-b917-9b71da30788d"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

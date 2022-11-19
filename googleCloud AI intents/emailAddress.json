@@ -1,0 +1,71 @@
+{
+  "id": "d929b333-ef66-44f2-8066-d712cf6c38c4",
+  "name": "emailAddress",
+  "auto": true,
+  "contexts": [
+    "confirmappointment-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "confirmappointment-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "85e595e6-33ac-4be2-ba7d-cae4c6306297",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4c52f3bc-ca9c-4b2f-96c1-20a0866a50ef",
+          "name": "person1",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "𝗧𝗵𝗲 𝗽𝗿𝗼𝘃𝗶𝗱𝗲𝗱 𝗰𝗼𝗻𝘁𝗮𝗰𝘁 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝗿𝗲𝗰𝗼𝗿𝗱𝗲𝗱. Please wait a few hours to business days for the involved recipients to follow up. 𝗧𝗼 𝗯𝗼𝗼𝗸 𝗮 𝗺𝗲𝗱𝗶𝗰𝗮𝗹 𝗮𝗽𝗽𝗼𝗶𝗻𝘁𝗺𝗲𝗻𝘁, 𝗲𝗻𝘁𝗲𝗿 \"#𝟭\"; 𝘁𝗼 𝗽𝘂𝗿𝗰𝗵𝗮𝘀𝗲 𝗽𝗿𝗲𝘀𝗰𝗿𝗶𝗯𝗲𝗱 𝗮𝗻𝗱/𝗼𝗿 𝗱𝗲𝗰𝗿𝗲𝗲𝗱 𝗺𝗲𝗱𝗶𝗰𝗮𝘁𝗶𝗼𝗻, 𝗲𝗻𝘁𝗲𝗿 \"#𝟮\"; 𝘁𝗼 𝗿𝗲𝗰𝗲𝗶𝘃𝗲 𝘃𝗶𝗿𝘁𝘂𝗮𝗹 𝗱𝗶𝗮𝗴𝗻𝗼𝘀𝗶𝘀, 𝗲𝗻𝘁𝗲𝗿 \n \"#𝟯\"."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

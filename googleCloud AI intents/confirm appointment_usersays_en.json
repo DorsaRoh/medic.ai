@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2e74dd64-e063-4a8b-b3ac-0341c0c04dc7",
+    "data": [
+      {
+        "text": "confirm appointment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "630dbca6-ebdd-4fc6-977c-699fa3bda022",
+    "data": [
+      {
+        "text": "confirmation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b334785-4b86-4d50-8cd7-04a2ad03aee9",
+    "data": [
+      {
+        "text": "i confirmed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36071355-1651-40b9-9644-d41fd16a0c1c",
+    "data": [
+      {
+        "text": "confirm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f45e21b-f364-4062-9333-afdb7d3bcfe3",
+    "data": [
+      {
+        "text": "confirmed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
