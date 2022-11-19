@@ -1,0 +1,9 @@
+{
+  "id": "d2b094d2-c93a-4093-813b-80427a8891fc",
+  "name": "Doctor",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
