@@ -1,0 +1,16 @@
+[
+  {
+    "value": "Doctor",
+    "synonyms": [
+      "Doctor",
+      "Doc",
+      "Dr"
+    ]
+  },
+  {
+    "value": "Nurse",
+    "synonyms": [
+      "Nurse"
+    ]
+  }
+]
