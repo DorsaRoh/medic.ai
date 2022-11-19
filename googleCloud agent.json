@@ -1,0 +1,62 @@
+{
+  "description": "With a plethora of practicalities, Medic.AI satisfies the growing demand for means of effective remote healthcare. By enabling patients to book doctor\u0027s appointments, purchase medication and receive immediate medical diagnosis, Medic.AI is an all-in-one application that empowers everyone, everywhere.",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "Medic.AI",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [
+      {
+        "intentId": "1524c78d-b7d4-4668-9d5a-02855357892f",
+        "signInRequired": false
+      },
+      {
+        "intentId": "e78bca83-0719-45a6-8dad-b386ac3ae79d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "39c58023-13ef-4d8e-948f-6b7e45a855df",
+        "signInRequired": false
+      },
+      {
+        "intentId": "079b5012-365d-45b8-affc-b931aeab7555",
+        "signInRequired": false
+      },
+      {
+        "intentId": "f312399b-cc9c-4785-86f6-c90c31d3174d",
+        "signInRequired": false
+      },
+      {
+        "intentId": "ff9d63db-dbee-4d48-926b-48fd27126dc2",
+        "signInRequired": false
+      }
+    ],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "voiceType": "VOICE_TYPE_UNSPECIFIED",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "PROTOCOL_VERSION_UNSPECIFIED",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2",
+  "secondaryKey": "5daa670436b241bc98652376d457b743",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": 0.0,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false
+}
