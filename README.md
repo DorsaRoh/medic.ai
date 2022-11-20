@@ -9,7 +9,7 @@ From the detection of neurological, psychotic and mood disorders, using a variet
 
 ## 🔨𝐇𝐨𝐰 𝐖𝐞 𝐁𝐮𝐢𝐥𝐭 𝐈𝐭
 
-Using Google Cloud and Google Analytics, Medic.AI was created with Dialogflow AI and the Google Cloud Console. To maximize the efficiency and optimization of the machine learning model, various datasets were used; encompassing extensive ranges of mental illnesses and medical diagnoses from Kaggle and AI intents (see files attached). The frontend of the website is built in HTML, CSS and Javascript, while the backend was built with Javascript, PHP and Google Cloud. The website is hosted using Netlify from the Github repository. Additionally, Google Colab notebooks was used to test the models so they could run more efficiently. Google Cloud Dialogflow web integration was performed for the integration of the ML model and data analytics products provided by Google Cloud into the website.
+Using Google Cloud and Google Analytics, Medic.AI was created with Dialogflow AI and the Google Cloud Console. To maximize the efficiency and optimization of the machine learning model, various datasets were used; encompassing extensive ranges of mental illnesses and medical diagnoses from Kaggle and AI intents (see files attached). The frontend of the website is built in HTML, CSS and Javascript, while the backend was built with Javascript, PHP and Google Cloud. Additionally, Google Colab notebooks was used to test the models so they could run more efficiently. Cohere AI was integrated for the chatbot's natural language processing. Google Cloud Dialogflow web integration was performed for the integration of the ML model and data analytics products provided by Google Cloud into the website.
 
 ## 🧠 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐖𝐞 𝐑𝐚𝐧 𝐈𝐧𝐭𝐨
 
@@ -26,3 +26,4 @@ Due to the extraordinarily versatile and secure infrastructure of Google Cloud, 
 ## 🔜 𝐖𝐡𝐚𝐭'𝐬 𝐍𝐞𝐱𝐭 𝐅𝐨𝐫 𝐌𝐞𝐝𝐢𝐜.𝐀𝐈
 
 Medic.AI hopes to grow to be able to revolutionize diagnostic care across areas without medical access. To expand its reach, future plans include integrating Google Maps API to allow users to find nearby hospitals and periodically email users so as to remind them to get a diagnosis and seek advice on their present condition. Additionally, the ability to translate between various languages is a promising prospect. At Medic.AI, accuracy is an utmost priority, so there are additional plans to incorporate even more databases into the machine learning algorithm in order to improve the accuracy of all diagnoses.
+
