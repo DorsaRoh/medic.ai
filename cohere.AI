@@ -2,7 +2,7 @@ const cohere = require('cohere-ai');
 cohere.init('{apiKey}');
 (async () => {
   const response = await cohere.generate({
-    prompt: 'Once upon a time in a magical land called',
+    prompt: 'Telehealth medical diagnosis',
   });
   console.log(`Prediction: ${response.body.generations[0].text}`);
 })();
