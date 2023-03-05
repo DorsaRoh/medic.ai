@@ -8,7 +8,7 @@ Natural language processing AI bot that diagnoses cognitive diseases.
 
 <ul>
   <li>Best Use of Cloud Computing at Hack the Change 2022 (top 4 out of 400+ participants)</li>
-  <li>Second Place in Healthcare at MetroHacks 2022</li>
+  <li>Second Place in Healthcare at MetroHacks 2022 (out of approx. 400 participants)</li>
   <li>Best Use of Google Cloud at Major League Hacking</li>
   </ul>
   
