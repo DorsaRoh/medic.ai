@@ -1,8 +1,0 @@
-const cohere = require('cohere-ai');
-cohere.init('{apiKey}');
-(async () => {
-  const response = await cohere.generate({
-    prompt: 'Telehealth medical diagnosis',
-  });
-  console.log(`Prediction: ${response.body.generations[0].text}`);
-})();
