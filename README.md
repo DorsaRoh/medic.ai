@@ -4,7 +4,7 @@ Natural language processing AI bot that diagnoses cognitive diseases.
 
 ## Awards 
 
-3x hackathon award winner.
+3x hackathon winner and awarded $1000.
 
 <ul>
   <li>Best Use of Cloud Computing at Hack the Change 2022 (top 4 out of 400+ participants)</li>
